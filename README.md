@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A full-stack developer from Mauritius. 
+  A full-stack developer from Mauritius. ![Screenshot](img/mauritius.png)
 </p>
 
 <p align='center'>  
