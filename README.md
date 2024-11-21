@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://medium.com/@hemantramphul">
+    <a href="https://medium.com/@hemant.ramphul">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     &nbsp;&nbsp;
