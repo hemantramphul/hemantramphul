@@ -14,9 +14,7 @@
   <i>“Develop thoughtful, efficient, and elegant solutions to interesting problems.”</i>
 </p>
 
----
-
-## Connect with me
+<h2 align="center">Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemantramphul/">
@@ -36,9 +34,7 @@
   </a>
 </p>
 
----
-
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/hemantramphul/Text-Extraction-with-YOLOv11-and-OCR">
@@ -67,22 +63,18 @@
   </a>
 </p>
 
----
-
-## GitHub Stats
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hemantramphul&show_icons=true&count_private=true&theme=dark" alt="Hemant's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantramphul&theme=dark" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=hemantramphul&theme=dark" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantramphul&layout=compact&theme=dark" alt="Top Languages" height="165" />
 </p>
 
----
-
-## Get in touch
+<h3 align="center">Get in touch</h3>
 
 <p align="center">
   Reach me at <a href="mailto:hemantramphul@gmail.com">hemantramphul@gmail.com</a>
