@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/hemantramphul/ramzstudio"><img src="https://socialify.git.ci/hemantramphul/ramzstudio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="RamzStudio - Privacy-first PDF toolkit" width="49%" /></a>
-  <a href="https://github.com/hemantramphul/ramz-csv-viewer"><img src="https://socialify.git.ci/hemantramphul/ramz-csv-viewer/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="Ramz CSV Viewer" width="49%" /></a>
+  <a href="https://github.com/hemantramphul/ramz-csv-viewer"><img src="https://socialify.git.ci/hemantramphul/ramz-csv-viewer/image?description=1&font=Inter&language=1&name=1&owner=1&stargazers=1&theme=Light" alt="Ramz CSV Viewer" width="49%" /></a>
 </p>
 
 <h2 align="center">Expertise</h2>
