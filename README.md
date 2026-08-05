@@ -15,25 +15,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemantramphul/">
-    <img src="img/social/linkedin.svg" width="42" height="32" alt="LinkedIn" title="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/hemantramphul/"><img src="img/social/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/hemantramphul/">
-    <img src="img/social/github.svg" width="42" height="32" alt="GitHub" title="GitHub" />
-  </a>
+  <a href="https://github.com/hemantramphul/"><img src="img/social/github.svg" width="42" height="42" alt="GitHub" title="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/3537318/hemant-ramphul">
-    <img src="img/social/stackoverflow.svg" width="42" height="32" alt="Stack Overflow" title="Stack Overflow" />
-  </a>
+  <a href="https://stackoverflow.com/users/3537318/hemant-ramphul"><img src="img/social/stackoverflow.svg" width="42" height="42" alt="Stack Overflow" title="Stack Overflow" /></a>
   &nbsp;&nbsp;
-  <a href="https://medium.com/@hemant.ramphul">
-    <img src="img/social/medium.svg" width="42" height="32" alt="Medium" title="Medium" />
-  </a>
+  <a href="https://medium.com/@hemant.ramphul"><img src="img/social/medium.svg" width="42" height="42" alt="Medium" title="Medium" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/hramphul/">
-    <img src="img/social/facebook.svg" width="42" height="32" alt="Facebook" title="Facebook" />
-  </a>
+  <a href="https://www.facebook.com/hramphul/"><img src="img/social/facebook.svg" width="42" height="42" alt="Facebook" title="Facebook" /></a>
 </p>
 
 <h2 align="center">Featured Projects</h2>
