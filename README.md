@@ -14,23 +14,25 @@
   <i>“Develop thoughtful, efficient, and elegant solutions to interesting problems.”</i>
 </p>
 
-<h2 align="center">Connect with me</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hemantramphul/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="img/social/linkedin.svg" width="42" height="32" alt="LinkedIn" title="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/hemantramphul/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="img/social/github.svg" width="42" height="32" alt="GitHub" title="GitHub" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/3537318/hemant-ramphul">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    <img src="img/social/stackoverflow.svg" width="42" height="32" alt="Stack Overflow" title="Stack Overflow" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://medium.com/@hemant.ramphul">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="img/social/medium.svg" width="42" height="32" alt="Medium" title="Medium" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/hramphul/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="img/social/facebook.svg" width="42" height="32" alt="Facebook" title="Facebook" />
   </a>
 </p>
 
