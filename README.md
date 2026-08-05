@@ -29,30 +29,18 @@
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/hemantramphul/Text-Extraction-with-YOLOv11-and-OCR">
-    <img src="https://socialify.git.ci/hemantramphul/Text-Extraction-with-YOLOv11-and-OCR/image?description=1&font=Inter&language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="Text-Extraction-with-YOLOv11-and-OCR" width="49%" />
-  </a>
-  <a href="https://github.com/hemantramphul/YOLOv12-Detection-on-Jetson-Orin-Nano">
-    <img src="https://socialify.git.ci/hemantramphul/YOLOv12-Detection-on-Jetson-Orin-Nano/image?description=1&font=Inter&language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="YOLOv12 Detection on Jetson Orin Nano" width="49%" />
-  </a>
+  <a href="https://github.com/hemantramphul/Text-Extraction-with-YOLOv11-and-OCR"><img src="https://socialify.git.ci/hemantramphul/Text-Extraction-with-YOLOv11-and-OCR/image?language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light&description=1" alt="Text-Extraction-with-YOLOv11-and-OCR" width="49%" /></a>
+  <a href="https://github.com/hemantramphul/YOLOv12-Detection-on-Jetson-Orin-Nano"><img src="https://socialify.git.ci/hemantramphul/YOLOv12-Detection-on-Jetson-Orin-Nano/image?description=1&font=Inter&language=1&name=1&owner=1&stargazers=1&theme=Light" alt="YOLOv12 Detection on Jetson Orin Nano" width="49%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hemantramphul/Localization-and-tracking-of-moving-targets-by-microphones">
-    <img src="https://socialify.git.ci/hemantramphul/Localization-and-tracking-of-moving-targets-by-microphones/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="Localization-and-tracking-of-moving-targets-by-microphones" width="49%" />
-  </a>
-  <a href="https://github.com/hemantramphul/flutter_sqflite">
-    <img src="https://socialify.git.ci/hemantramphul/flutter_sqflite/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" alt="Flutter SQFlite" width="49%" />
-  </a>
+  <a href="https://github.com/hemantramphul/Localization-and-tracking-of-moving-targets-by-microphones"><img src="https://socialify.git.ci/hemantramphul/Localization-and-tracking-of-moving-targets-by-microphones/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Light" alt="Localization-and-tracking-of-moving-targets-by-microphones" width="49%" /></a>
+  <a href="https://github.com/hemantramphul/flutter_sqflite"><img src="https://socialify.git.ci/hemantramphul/flutter_sqflite/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="Flutter SQFlite" width="49%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hemantramphul/ramzstudio">
-    <img src="https://socialify.git.ci/hemantramphul/ramzstudio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" alt="RamzStudio - Privacy-first PDF toolkit" width="49%" />
-  </a>
-  <a href="https://github.com/hemantramphul/ramz-csv-viewer">
-    <img src="https://socialify.git.ci/hemantramphul/ramz-csv-viewer/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" alt="Ramz CSV Viewer" width="49%" />
-  </a>
+  <a href="https://github.com/hemantramphul/ramzstudio"><img src="https://socialify.git.ci/hemantramphul/ramzstudio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="RamzStudio - Privacy-first PDF toolkit" width="49%" /></a>
+  <a href="https://github.com/hemantramphul/ramz-csv-viewer"><img src="https://socialify.git.ci/hemantramphul/ramz-csv-viewer/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="Ramz CSV Viewer" width="49%" /></a>
 </p>
 
 <h2 align="center">Expertise</h2>
