@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  14+ years of experience, honed through impactful projects in
+  15+ years of experience, honed through impactful projects in
   Mauritius <img src="img/mauritius.png" alt="Mauritius" height="14" />
   and France <img src="img/france.png" alt="France" height="14" />.
 </p>
